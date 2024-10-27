@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@bitwarden/sdk-napi": "^1.0.0"
+  }
+}
